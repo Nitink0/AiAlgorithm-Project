@@ -15,3 +15,6 @@ Model accuracy plot
 
 Model loss plot
 ![Screen Shot 2021-12-12 at 7 58 16 PM](https://user-images.githubusercontent.com/92343352/145737199-36c8ca5b-44e4-4d38-b2d6-11a7f97bedcd.png)
+
+
+The jupyter files in delivery folder
